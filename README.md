@@ -1,3 +1,5 @@
+> Archived. Part of the XeWe LED family; see https://github.com/xewe-labs/xewe-led-os.
+
 # XeWe LED - Bed — Alexa-controlled addressable LED lights behind a bed
 
 Personal project · Summer 2021 (uploaded to GitHub 2023-11-05) · Solo: Max Dokukin · Status: Completed
